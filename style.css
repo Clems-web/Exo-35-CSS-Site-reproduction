@@ -1,0 +1,56 @@
+html {
+    padding: 0;
+    margin: 0;
+    width: auto;
+}
+
+body {
+    position: relative;
+}
+h1 {
+    font-family: 'Jura', sans-serif;
+}
+
+#avecavoc {
+    font-family: 'Jura', sans-serif;
+    position: absolute;
+    left: 95%;
+    bottom: 500px;
+}
+
+#share {
+    font-family: 'Jura', sans-serif;
+    color: lightgray;
+    position: absolute;
+    left: 96%;
+}
+
+#entete {
+    margin-top: 10%;
+    margin-left: 60%;
+}
+
+#efimer {
+    font-family: 'Overpass', sans-serif;
+    font-size: 50px;
+    position: absolute;
+    left: 47%;
+    bottom: 35%;
+}
+
+#list {
+    width: 20%;
+    position: absolute;
+    left: 45%;
+    font-family: 'Jura', sans-serif;
+    padding: 10px;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.titre {
+    font-weight: bold;
+}
